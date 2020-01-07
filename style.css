@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.808);
+}
+#credits{
+    position: fixed;
+    top: 0px;
+    text-align: center;
+    font: bold 12pt Arial;
+    color: aliceblue
+}
+#points{
+    font: bold 30pt Arial;
+    color: aliceblue;
+}
+.balloon{
+    margin-top: 10vh;
+    width:120px;
+    height:145px;
+    border-radius:80%;
+    box-shadow:inset -10px -10px 0 rgba(0,0,0,0.07);
+    position: absolute;
+}
