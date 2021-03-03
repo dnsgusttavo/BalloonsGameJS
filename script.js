@@ -16,7 +16,7 @@ function start(){
         balloon.style.background = colors[num];
         document.body.appendChild(balloon);
         
-    }, 50);
+    }, 200);
     
 }
 
