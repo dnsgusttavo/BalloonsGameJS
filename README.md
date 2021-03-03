@@ -3,7 +3,7 @@ Esse foi um dos primeiros dos projetos feitos com javascript por mim. Eu o desen
 
 ## 💻 Screenshots
 <p align="center">
- <img src="/promo/gif.gif" width="50%"/>
+ <img src="/promo/gif.gif" width="100%"/>
 </p>
 
 <br>
