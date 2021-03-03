@@ -5,12 +5,10 @@ Esse foi um dos primeiros dos projetos feitos com javascript por mim. Eu o desen
 <p align="center">
  <img src="/promo/gif.gif" width="100%"/>
 </p>
-
 <br>
 
 ## 🚀 Tecnologias
 This project was developed with:
-
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
